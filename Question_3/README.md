@@ -1,4 +1,4 @@
-# PHP Sum Array with Range
+# PHP Sum Array within Range
 
 This PHP script calculates the sum of array elements that fall within a specified range. It ensures proper validation of input values and handles edge cases effectively.
 
