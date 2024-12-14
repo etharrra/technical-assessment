@@ -14,7 +14,7 @@ This PHP script calculates the total size of all files within a given directory,
 1. Open a terminal and navigate to the directory containing the file.
 2. Run the script using the PHP command:
     ```bash
-    php directory_size_calculator.php
+    php calculateDirectorySize.php
     ```
 3. When prompted, enter the path to the directory whose size you want to calculate.
 4. The script will output the total size in bytes.
